@@ -1,33 +1,33 @@
 # esp32_wrover_fpc_base
 The goal of this project is to make a board system that can replace 90% of my raspberry pi projects.
 
-esp32_wrover_fpc_base advantages:
+### esp32_wrover_fpc_base advantages:
 
 * Size
 * Prize
 * Flexibuility
 * Less constrains
 
-esp32_wrover_fpc_base disadvantages:
+### esp32_wrover_fpc_base disadvantages:
 * It cant even be a bad desktop computer
 
-Design goals (ongoing):
+### Design goals (ongoing):
 * Easy to assemble, all smd, one side components
 * Default pins, use as many of the default pin outputs
 * High flexibility, add as few of contraints to base board
 * Low production price
 
-Outputs:
+### Outputs:
 
-IO:
+#### IO:
 * 1 14 port horizontal 1.0 MM FPC connector
 * 1 14 port vertical 1.0 MM FPC connector
-Power/IO
+#### Power/IO
 * 1 10 port horizontal 1.0 MM FPC connector
 * 1 10 port vertical 1.0 MM FPC connector
  
-IO connections:
-IO:
+### IO connections:
+#### IO:
 * I2C SCL     IO22
 * I2C SDA     IO21
 * SPI MOSI    IO23
@@ -42,7 +42,7 @@ IO:
 * 3V3
 * EXT
 
-Power/IO:
+#### Power/IO:
 * 3V3
 * 3V3
 * TX
