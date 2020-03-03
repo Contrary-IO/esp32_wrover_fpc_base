@@ -1,13 +1,14 @@
 # esp32_wrover_fpc_base
 The goal of this project is to make a board system that can replace 90% of my raspberry pi projects.
 
+esp32_wrover_fpc_base advantages:
 
 * Size
 * Prize
 * Flexibuility
 * Less constrains
 
-The disavantages will be the following
+esp32_wrover_fpc_base disadvantages:
 * It cant even be a bad desktop computer
 
 Design goals (ongoing):
