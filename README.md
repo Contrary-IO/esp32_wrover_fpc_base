@@ -53,3 +53,6 @@ The goal of this project is to make a board system that can replace 90% of my ra
 * SCL
 * SDA
 * GND
+
+Easyeda link:
+https://easyeda.com/Contrary.IO_pub/esp32_wrover_fpc_base
