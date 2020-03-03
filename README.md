@@ -1,10 +1,11 @@
 # esp32_wrover_fpc_base
 The goal of this project is to make a board system that can replace 90% of my raspberry pi projects.
 
--Size
--Prize
--Flexibuility
--Less constrains
+
+  -Size
+  -Prize
+  -Flexibuility
+  -Less constrains
 
 The disavantages will be the following
 -It cant even be a bad desktop computer
