@@ -56,3 +56,12 @@ The goal of this project is to make a board system that can replace 90% of my ra
 
 Easyeda link:
 https://easyeda.com/Contrary.IO_pub/esp32_wrover_fpc_base
+
+#### Partlist
+* JUSHUO AFA07-S10ECA-00 - C262737
+* JUSHUO AFA07-S10FCC-00  - C262720
+* 605 - 10K - Resistor - C25804
+* 605 - 1uf - Capacitor - C15849
+* 605 - 10uf - Capacitor - C1691
+* 605 - 100nf - Capacitor - C1591
+
