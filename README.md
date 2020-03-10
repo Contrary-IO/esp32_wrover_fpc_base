@@ -1,3 +1,6 @@
+
+<img src="https://raw.githubusercontent.com/Contrary-IO/esp32_wrover_fpc_base/master/IMGS/esp32_wrover_fpc_base_render.png" width="600>
+
 # esp32_wrover_fpc_base
 The goal of this project is to make a board system that can replace 90% of my raspberry pi projects.
 
